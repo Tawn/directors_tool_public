@@ -24,4 +24,4 @@ HOW TO USE
 
 1. Ensure Python 3.0 is installed on your computer.
 2. Navigate to the directors_tool directory (cd ../directors_tool_public).
-3. Run 'python directors_tool_public.py'.
+3. Run 'python directors_tool.py'.
