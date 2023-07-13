@@ -128,7 +128,7 @@ class Export(tk.Frame):
         today = datetime.today().strftime("%A, %B %d, %Y")
         cat1_summary_output = "Hello all,\n" \
                         + "\nHere is the summary for " + today + " (JST). " \
-                        + "If a name is highlight, it means we think you have an action below.\n" \
+                        + "If a name is highlighted, it means we think you have an action below.\n" \
                         + "\nPlan for today's testing:\n" \
                             + Agenda(self).agenda_output + "\n"
         cat1_summary_output += self.cat1_summary
